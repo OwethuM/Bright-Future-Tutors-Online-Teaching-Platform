@@ -9,6 +9,6 @@ The tools we used are:
 * Html
 * CSS
 * JavaScript
-* Bootsrap
+* Bootsrap.
 
 
